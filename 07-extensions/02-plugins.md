@@ -2,21 +2,21 @@
 
 #### Compatible with Croogo 1.3.2 or higher:
 
-* [Advertising](http://github.com/chroposnos/Advertising-Croogo-Plugin) by Israel Segundo
-* [Block Anywhere](https://github.com/firecreek/BlockAnywhere) by Darren Moore
-* [CakeForms](https://github.com/shihab-alain/croogo-cakeforms/) by Sam Bernard
+* [Advertising](http://github.com/chroposnos/Advertising-Croogo-Plugin "Manages ads (creation, monitoring). Every ad can redirect to a given URL and may register click counting.") by Israel Segundo
+* [Block Anywhere](https://github.com/firecreek/BlockAnywhere "Put a block anywhere in Croogo") by Darren Moore
+* [CakeForms](https://github.com/shihab-alain/croogo-cakeforms/ "An easy to use form plugin inspired by the amazing Cforms plugin for Wordpress.") by Sam Bernard
 * [CKEditor](http://github.com/Scoup/geecktec_ckeditor) by Léo Haddad
-* [Clear Cache](https://github.com/fahad19/clear_cache) by Fahad  Ibnay Heylaal and Rick Guyer
-* [Cumulus](http://github.com/chroposnos/cumulus) by Israel Segundo
-* [DebugKit](http://github.com/fahad19/debug_kit) by Mark Story
-* [ElFinder](http://github.com/azzzy/Croogo-ElFinder-Plugin) by Daniel Alexandrov
+* [Clear Cache](https://github.com/fahad19/clear_cache "CakePHP plugin/shell for deleting cache files") by Fahad  Ibnay Heylaal and Rick Guyer
+* [Cumulus](http://github.com/chroposnos/cumulus "Creates and displays a block with a 3d tag cloud. It takes all the tags of the nodes.") by Israel Segundo
+* [DebugKit](http://github.com/fahad19/debug_kit "Provides a debugging toolbar and enhanced debugging tools for CakePHP applications.") by Mark Story
+* [ElFinder](http://github.com/azzzy/Croogo-ElFinder-Plugin "Plugin for replacing the default file manager with the ElFinder AJAX filemanage") by Daniel Alexandrov
 * [eShop](http://github.com/elcuro/eshop) by Juraj Jancuska
-* [Events](http://github.com/thoth/event) by Thomas Rader
-* [Flattr](http://github.com/muxe/Croogo-Flattr-Plugin) by Max Dörfler
-* [Flickr Module](http://github.com/chroposnos/flickr_module) by Israel Segundo
-* [Gallery](http://github.com/phpedinei/gallery) by Edinei L. Cipriani
-* [Highlighter](http://github.com/jacmoe/highlighter) by Jacob Moen
-* [Language Selector](http://github.com/smarek/langbar) by Marek Sebera
+* [Events](http://github.com/thoth/event "A plugin for creating/managing events") by Thomas Rader
+* [Flattr](http://github.com/muxe/Croogo-Flattr-Plugin "A Croogo Plugin to add Flattr buttons to your posts") by Max Dörfler
+* [Flickr Module](http://github.com/chroposnos/flickr_module "Displays random flickr public photos of a given user in a block.") by Israel Segundo
+* [Gallery](http://github.com/phpedinei/gallery "This Gallery plugin for Croogo can create albums and upload photos") by Edinei L. Cipriani
+* [Highlighter](http://github.com/jacmoe/highlighter "A plugin for Croogo CMS for code syntax highlighting.") by Jacob Moen
+* [Language Selector](http://github.com/smarek/langbar "Creates Block of flags with labels, for easy way to change site's language.") by Marek Sebera
 * [Lucene Search](http://github.com/palam/Croogo-Lucene-Search-Plugin) by Palaniappan Chellappan
 * [Markdown](http://fahad19.com/blog/markdown-plugin) by Fahad Ibnay Heylaal
 * [Markitup](http://github.com/jacmoe/markitup) by Jacob Moen
