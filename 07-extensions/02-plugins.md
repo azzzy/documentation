@@ -2,7 +2,7 @@
 
 #### Compatible with Croogo 1.3.2 or higher:
 
-* [Advertising](http://github.com/chroposnos/Advertising-Croogo-Plugin "Manages ads (creation, monitoring). Every ad can redirect to a given URL and may register click counting.") by Israel Segundo
+* [Advertising](http://github.com/chroposnos/Advertising-Croogo-Plugin "Manages ads. Every ad can redirect to a given URL and may register click counting.") by Israel Segundo
 * [Block Anywhere](https://github.com/firecreek/BlockAnywhere "Put a block anywhere in Croogo") by Darren Moore
 * [CakeForms](https://github.com/shihab-alain/croogo-cakeforms/ "An easy to use form plugin inspired by the amazing Cforms plugin for Wordpress.") by Sam Bernard
 * [CKEditor](http://github.com/Scoup/geecktec_ckeditor) by Léo Haddad
