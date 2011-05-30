@@ -17,18 +17,18 @@
 * [Gallery](http://github.com/phpedinei/gallery "This Gallery plugin for Croogo can create albums and upload photos") by Edinei L. Cipriani
 * [Highlighter](http://github.com/jacmoe/highlighter "A plugin for Croogo CMS for code syntax highlighting.") by Jacob Moen
 * [Language Selector](http://github.com/smarek/langbar "Creates Block of flags with labels, for easy way to change site's language.") by Marek Sebera
-* [Lucene Search](http://github.com/palam/Croogo-Lucene-Search-Plugin) by Palaniappan Chellappan
-* [Markdown](http://fahad19.com/blog/markdown-plugin) by Fahad Ibnay Heylaal
-* [Markitup](http://github.com/jacmoe/markitup) by Jacob Moen
-* [Node Attachment](http://github.com/elcuro/nodeattachment) by Juraj Jancuska
-* [Nodethumb](http://github.com/firecreek/nodethumb) by Darren Moore
-* [Ping Service](http://github.com/rayhan/ping_service) by Md. Rayhan Chowdhury
-* [Poll](http://github.com/chroposnos/poll) by Israel Segundo
-* [Poll](http://github.com/primeminister/poll) by Zijad Redžić and Charlie van de Kerkhof
-* [Resume](https://github.com/thoth/resume) by Thomas Rader
-* [Sites](https://github.com/rchavik/sites) by Rachman Chavik
+* [Lucene Search](http://github.com/palam/Croogo-Lucene-Search-Plugin "Search plugin for Croogo CMS using Zend_Search_Lucene") by Palaniappan Chellappan
+* [Markdown](http://fahad19.com/blog/markdown-plugin "Markdown Plugin for Croogo CMS") by Fahad Ibnay Heylaal
+* [Markitup](http://github.com/jacmoe/markitup "A plugin for using the markItUp! jQuery editor with Croogo CMS.") by Jacob Moen
+* [Node Attachment](http://github.com/elcuro/nodeattachment "Attach various types of files to node") by Juraj Jancuska
+* [Nodethumb](http://github.com/firecreek/nodethumb "This plugin for Croogo CMS will give you the ability to add thumbnails to any type of node.") by Darren Moore
+* [Ping Service](http://github.com/rayhan/ping_service "A croogo plugin which updates ping servers when a content is created or updated.") by Md. Rayhan Chowdhury
+* [Poll](http://github.com/chroposnos/poll "Croogo plugin to create and manage polls.") by Israel Segundo
+* [Poll](http://github.com/primeminister/poll "Poll plugin for Croogo CMS") by Zijad Redžić and Charlie van de Kerkhof
+* [Resume](https://github.com/thoth/resume "Resume is a free, open source, resume builder that sits on top of the Croogo content management system for PHP, released under [MIT License].") by Thomas Rader
+* [Sites](https://github.com/rchavik/sites "This plugin enables multi-site support for Croogo") by Rachman Chavik
 * [Sitemap](http://github.com/traedamatic/croogo_sitemap_plugin) by Nicolas Traeder
-* [Social Bookmarks](http://github.com/fahad19/social_bookmarks) by Fahad Ibnay Heylaal
+* [Social Bookmarks](http://github.com/fahad19/social_bookmarks "A plugin for Croogo CMS for showing graphical social bookmark links.") by Fahad Ibnay Heylaal
 * [Swiff Editor](https://github.com/ProFire/Swiff-Editor-for-Croogo) by ProFire
 * [Texy](http://github.com/elcuro/texy) by Juraj Jancuska
 * [Typed Tags](http://scvgeo.com/blog/typed-tags-croogo-plugin) by Felipe Garcia Hernandez
