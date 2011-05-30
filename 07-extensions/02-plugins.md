@@ -29,15 +29,15 @@
 * [Sites](https://github.com/rchavik/sites "This plugin enables multi-site support for Croogo") by Rachman Chavik
 * [Sitemap](http://github.com/traedamatic/croogo_sitemap_plugin) by Nicolas Traeder
 * [Social Bookmarks](http://github.com/fahad19/social_bookmarks "A plugin for Croogo CMS for showing graphical social bookmark links.") by Fahad Ibnay Heylaal
-* [Swiff Editor](https://github.com/ProFire/Swiff-Editor-for-Croogo) by ProFire
-* [Texy](http://github.com/elcuro/texy) by Juraj Jancuska
-* [Typed Tags](http://scvgeo.com/blog/typed-tags-croogo-plugin) by Felipe Garcia Hernandez
-* [Video Widget](http://github.com/chroposnos/video_widget) by Israel Segundo
+* [Swiff Editor](https://github.com/ProFire/Swiff-Editor-for-Croogo "Swiff Editor allows you to edit your Nodes straight from the page itself and let's you see the changes LIVE, with the stylesheets and javascripts. Experience the difference with Swiff Editor.") by ProFire
+* [Texy](http://github.com/elcuro/texy "Plugin for Croogo CMS, for using Texy format in content") by Juraj Jancuska
+* [Typed Tags](http://scvgeo.com/blog/typed-tags-croogo-plugin "Adds a tab to the node edit and node add, admin actions, so tags can be added to any node when creating or editing any node.") by Felipe Garcia Hernandez
+* [Video Widget](http://github.com/chroposnos/video_widget "Displays a video inside of a block. The video could be from the following providers: Youtube, Vimeo, Myspace, Veoh, Blip, Viddler and DailyMotion.") by Israel Segundo
 
 #### Not compatible with the latest version of Croogo (yet)
 
 * [Cycle](http://www.shift8creative.com/blog/cycle-plugin) by Tom Maiaroto
-* [Geshi](http://github.com/phpedinei/geshi) by Edinei L. Cipriani
-* [Html Cache](http://github.com/mcurry/html_cache) by Matt Curry
-* [Syntax](http://codaset.com/jeremyharris/croogo-syntax-plugin) by Jeremy Harris
-* [Tag Cloud](http://github.com/andruu/Croogo-Tagcloud-Plugin) by Andrew Weir
+* [Geshi](http://github.com/phpedinei/geshi "Geshi hightlight for croogo cms") by Edinei L. Cipriani
+* [Html Cache](http://github.com/mcurry/html_cache "CakePHP Plugin - Store a Cake generated page as plain HTML") by Matt Curry
+* [Syntax](http://codaset.com/jeremyharris/croogo-syntax-plugin "Syntax highlighter plugin for the Croogo CMS.") by Jeremy Harris
+* [Tag Cloud](http://github.com/andruu/Croogo-Tagcloud-Plugin "Croogo Tagcloud Plugin") by Andrew Weir
